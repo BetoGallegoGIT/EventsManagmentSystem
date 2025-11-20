@@ -1,0 +1,39 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Configuración específica de IntelliJ (para limpiar el repo) ###
+.idea/
+*.iml
+*.iws
+
+### Archivos de Datos (Base de datos local) ###
+# No queremos subir mis datos de prueba a GitHub
+events.txt
+attendees.txt
