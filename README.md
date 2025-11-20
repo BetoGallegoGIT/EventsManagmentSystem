@@ -19,7 +19,17 @@ A Java Swing application for planning and managing events, ranging from large co
 
 ## 📸 Screenshots
 
-(Aquí podrás pegar las imágenes que me mandaste antes, GitHub deja pegar imágenes directamente en el editor)
+**Main Dashboard:**
+![Main Window](screenshots/main_window.png)
+
+**Create New Event:**
+![Add Event](screenshots/add_event.png)
+
+**Modify Event & Attendee List:**
+![Modify Event](screenshots/modify_event.png)
+
+**Registering a New Attendee:**
+![Inscribe Attendee](screenshots/inscribe_attendee.png)
 
 ## 📦 How to Run
 
